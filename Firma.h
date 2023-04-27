@@ -33,4 +33,4 @@ public:
     void SortingPosition();
 };
 
-#endif //PROJECT_FIRMA_H
+#endif //PROJECT_FIRMA_H2
